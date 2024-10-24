@@ -21,3 +21,11 @@ langchain
 langchain-community
 twilio
 python-multipart
+
+langchain
+redis
+psycopg2-binary
+sentence-transformers
+elasticsearch
+groq
+python-dotenv
