@@ -1,0 +1,121 @@
+question,original_answer,model_answer,similarity,response_time
+What is the ID of the Premium Egyptian Cotton Oxford Shirt?,CLT001,The ID of the Premium Egyptian Cotton Oxford Shirt is **CLT001**.,0.48735368,0.5150501728057861
+How much does the Oxford shirt cost?,699.99,The Premium Egyptian Cotton Oxford Shirt costs $699.99.,0.2605945,0.33113980293273926
+In which category can I find the Oxford shirt?,shirts,"The provided text states that the product in question is an Oxford shirt. It is categorized as ""shirts.""",0.5252324,0.34744787216186523
+What colors and sizes are available for this shirt?,"This shirt is available in White, Light Blue, Pink, Light Grey, and Powder Blue. Sizes include S, M, L, XL, and XXL.","The Premium Egyptian Cotton Oxford Shirt is available in **White, Light Blue, Pink, Light Grey, and Powder Blue** and is available in sizes **S, M, L, XL, and XXL**.",0.7265065,0.3366584777832031
+Are there any discounts or promotions for this shirt?,"No, there are no discounts for this product. The original price is 699.99.","The provided text does not contain any information regarding current discounts or promotions for the shirt, so I am unable to answer this question from the given context.",0.45191014,0.29090380668640137
+What is the ID of the Stretch Denim High-Rise Jeans?,CLT002,The ID of the Stretch Denim High-Rise Jeans is **CLT002**.,0.60382926,0.3587770462036133
+How much do the Mid Blue Stretch Denim High-Rise Jeans cost in size 30?,899.99,"According to the product information provided, the Mid Blue Stretch Denim High-Rise Jeans in size 30 cost **$899.99**.",0.1325088,0.35103940963745117
+What colors are available for the high-rise jeans made of stretch denim?,"Dark Blue, Mid Blue, Light Wash, Black","The available colors for the stretch denim high-rise jeans are Dark Blue, Mid Blue, Light Wash, and Black.",0.65727293,0.29192447662353516
+What sizes can I purchase the Stretch Denim High-Rise Jeans in?,"24, 26, 28, 30, 32, 34","The Stretch Denim High-Rise Jeans are available in sizes **24, 26, 28, 30, 32, and 34.**",0.5041947,0.31558990478515625
+Are there any current discounts on the Stretch Denim High-Rise Jeans?,"No, there are no current discounts on this product.",The provided text does not include any information regarding current discounts or promotions for the Stretch Denim High-Rise Jeans.,0.5406333,0.37294816970825195
+What is the ID of the Quilted Winter Puffer Jacket?,CLT003,The ID of the Quilted Winter Puffer Jacket is **CLT003**.,0.60283476,0.3329460620880127
+How much does the navy-colored puffer jacket cost?,1799.99,The navy-colored puffer jacket costs $1799.99.,0.43152952,0.39200711250305176
+In which categories can I find the puffer jacket?,jackets,The puffer jacket is categorized under **jackets**.,0.5486541,0.3357555866241455
+What sizes and colors are available for the quilted winter jacket?,"This jacket is available in sizes XS, S, M, L, XL and colors Black, Navy, Forest Green, Burgundy.","The Quilted Winter Puffer Jacket is available in the following sizes and colors:
+
+- **Sizes:** XS, S, M, L, XL
+- **Colors:** Black, Navy, Forest Green, Burgundy",0.8051104,0.3067035675048828
+Is there any discount on the puffer jacket?,"Yes, there is a 15% discount.","The provided text does not contain any information regarding current discounts or promotions for the Quilted Winter Puffer Jacket. Therefore, I am unable to answer the customer's question regarding discounts.",0.52407396,0.41980433464050293
+What is the ID of the Merino Wool Turtleneck Sweater?,CLT004,The product ID of the Merino Wool Turtleneck Sweater is **CLT004**.,0.5330139,0.3038523197174072
+How much does the turtleneck sweater cost?,1299.99,The Merino Wool Turtleneck Sweater costs $1299.99.,0.29943714,0.3687312602996826
+In which category can I find the Merino Wool Turtleneck Sweater?,knitwear,"According to the product information provided, the Merino Wool Turtleneck Sweater can be found in the **knitwear** category.",0.5831501,0.2965576648712158
+What colors are available for this Merino Wool Turtleneck Sweater?,"Cream, Black, Grey Melange, Camel","The Merino Wool Turtleneck Sweater is available in Cream, Black, Grey Melange, and Camel.",0.56245613,0.2815546989440918
+What sizes does the Merino Wool Turtleneck Sweater come in?,"XS, S, M, L, XL","The Merino Wool Turtleneck Sweater is available in sizes **XS, S, M, L, XL**.",0.6151124,0.3664214611053467
+What is the ID of the pleated midi skirt?,CLT005,The ID of the pleated midi skirt is **CLT005**.,0.5199854,0.3193345069885254
+How much does the pleated midi skirt cost?,899.99,The pleated midi skirt costs $899.99.,0.24596627,0.3484318256378174
+In which category can I find the pleated midi skirt?,skirts,The pleated midi skirt is categorized under **Skirts**.,0.62187713,0.33014464378356934
+What colors are available for the pleated midi skirt?,"Black, Navy, Champagne, Forest Green","The pleated midi skirt is available in four colors: Black, Navy, Champagne, and Forest Green.",0.50115544,0.3405454158782959
+What sizes does the pleated midi skirt come in?,"XS, S, M, L, XL","The pleated midi skirt comes in sizes XS, S, M, L, and XL.",0.49864942,0.31549501419067383
+What is the ID of the Linen Blend Blazer?,CLT006,The product ID of the Linen Blend Blazer is **CLT006**.,0.5393109,0.28725576400756836
+How much does the Linen Blend Blazer cost?,1599.99,The Linen Blend Blazer costs $1599.99.,0.33668742,0.3682084083557129
+In which category can I find the Linen Blend Blazer?,jackets,The Linen Blend Blazer can be found in the **jackets** category.,0.4741826,0.33681178092956543
+What colors are available for the Linen Blend Blazer?,"Beige, Light Grey, Navy, Sage","The Linen Blend Blazer is available in **Beige, Light Grey, Navy, and Sage**.",0.71646255,0.2778327465057373
+What sizes can I order for the Linen Blend Blazer?,"S, M, L, XL, XXL","The Linen Blend Blazer is available in sizes S, M, L, XL, and XXL.",0.5548755,0.3428502082824707
+What is the ID of the leather Chelsea boots?,CLT007,The product ID of the leather Chelsea boots is **CLT007**.,0.5314923,2.4906020164489746
+How much do the leather Chelsea boots cost?,2499.99,The Leather Chelsea Boots cost $2499.99.,0.2956521,2.4758448600769043
+In which category do I find the leather Chelsea boots?,shoes,The leather Chelsea boots can be found in the **shoes** category.,0.5307334,2.5177125930786133
+What color options are available for the leather Chelsea boots?,"Black, Brown, Tan, Burgundy","The Leather Chelsea Boots are available in **Black, Brown, Tan, and Burgundy**.",0.5098382,2.511787176132202
+What sizes are the leather Chelsea boots available in?,"UK6, UK7, UK8, UK9, UK10, UK11","The Leather Chelsea Boots are available in sizes UK6, UK7, UK8, UK9, UK10, and UK11.",0.41487002,2.468207836151123
+What is the ID of the silk wrap dress?,CLT008,The product ID of the silk wrap dress is **CLT008**.,0.5208007,2.485116958618164
+How much does the silk wrap dress cost?,2999.99,The silk wrap dress costs $2999.99.,0.35001704,2.474397897720337
+What sizes are available for the silk wrap dress?,"XS, S, M, L, XL","The available sizes for the Silk Wrap Dress are **XS, S, M, L, XL.**",0.59690106,2.461456537246704
+What colors can I purchase the silk wrap dress in?,"Emerald, Navy, Ruby, Black","The Silk Wrap Dress is available in four colors: Emerald, Navy, Ruby, and Black.",0.50348145,3.4721670150756836
+Is there a discount on the silk wrap dress?,"No, there is no discount on the silk wrap dress.","The provided text does not contain any information regarding discounts or promotions for the Silk Wrap Dress, so I am unable to answer this question from the given context.",0.8468388,1.4533371925354004
+What is the ID of the cropped denim jacket?,CLT009,The product ID of the cropped denim jacket is **CLT009**.,0.573553,2.4401583671569824
+How much does the cropped denim jacket cost?,899.99,The cropped denim jacket costs $899.99.,0.35130763,2.4848737716674805
+In which category can I find the cropped denim jacket?,jackets,The cropped denim jacket is categorized under **jackets**.,0.587301,2.620209217071533
+What color options and sizes are available for the cropped denim jacket?,"This jacket comes in colors Light Wash, Medium Wash, Dark Wash, and Black, and is available in sizes XS, S, M, L, and XL.","The Cropped Denim Jacket is available in four colors: Light Wash, Medium Wash, Dark Wash, and Black. It is available in sizes XS, S, M, L, and XL.",0.81415737,2.550518274307251
+Is there any discount on the cropped denim jacket?,"No, there is no discount on this product.","The provided text does not include information regarding any discounts or promotions for the cropped denim jacket. Therefore, I am unable to answer this question from the given context.",0.51073945,2.492095470428467
+What is the ID of the Cashmere Blend Cardigan?,CLT010,The ID of the Cashmere Blend Cardigan is **CLT010**.,0.45134234,2.4882662296295166
+How much does the Cashmere Blend Cardigan cost?,1799.99,The Cashmere Blend Cardigan costs $1799.99.,0.33577698,2.437635898590088
+In which category can I find the Cashmere Blend Cardigan?,knitwear,The Cashmere Blend Cardigan can be found in the **knitwear** category.,0.5630426,2.4262566566467285
+What colors and sizes are available for the Cashmere Blend Cardigan?,"This cardigan comes in Cream, Grey, Navy, and Camel colors and is available in sizes S, M, L, and XL.","The Cashmere Blend Cardigan is available in **Cream, Grey, Navy, and Camel** and comes in sizes **S, M, L, and XL**.",0.8912605,2.4950778484344482
+Is there any discount on the Cashmere Blend Cardigan?,"Yes, there is a 15% discount.","The provided text does not contain any information regarding discounts or promotions, so I am unable to answer this question from the given context.",0.6128477,2.4795331954956055
+What is the ID of the wide-leg linen trousers?,CLT011,The product ID of the wide-leg linen trousers is **CLT011**.,0.53067786,2.468262195587158
+How much do the white wide-leg linen trousers cost?,999.99,The white wide-leg linen trousers cost $999.99.,0.39699027,2.6819136142730713
+Are there any size options available for the linen pants?,"Yes, they are available in XS, S, M, L, and XL.","According to the product information provided, the Wide-Leg Linen Trousers are available in sizes XS, S, M, L, and XL.",0.5465187,2.7652740478515625
+What colors are the wide-leg linen trousers offered in?,"Natural, White, Black, and Olive","The wide-leg linen trousers are available in **Natural, White, Black, and Olive** colors.",0.54557264,2.4291021823883057
+Is there a discount on the wide-leg linen pants?,"No, there is no discount at the moment.","The provided text does not include information regarding any discounts or promotions on the Wide-Leg Linen Trousers. Therefore, I am unable to answer the customer's question regarding any discounts.",0.55951387,2.478619337081909
+What is the ID of the Platform Canvas Sneakers?,CLT012,The ID of the Platform Canvas Sneakers is **CLT012**.,0.5482881,2.4419374465942383
+How much do the Platform Canvas Sneakers cost?,699.99,The Platform Canvas Sneakers cost $699.99.,0.30769408,2.593015670776367
+In which category do the Platform Canvas Sneakers belong?,shoes,"According to the product information, the Platform Canvas Sneakers belong to the **shoes** category.",0.5006359,2.518526554107666
+What colors are available for the Platform Canvas Sneakers?,"White, Black, Navy, Red","The Platform Canvas Sneakers are available in **White, Black, Navy, and Red**.",0.54623437,2.4399285316467285
+What sizes can I purchase the Platform Canvas Sneakers in?,"UK4, UK5, UK6, UK7, UK8","The Platform Canvas Sneakers are available in sizes UK4, UK5, UK6, UK7, and UK8.",0.48187232,2.8384408950805664
+What is the ID of the printed silk scarf?,CLT013,The ID of the printed silk scarf is **CLT013**.,0.55838317,2.4344425201416016
+How much does the printed silk scarf cost?,499.99,The printed silk scarf costs $499.99.,0.38787872,2.541194438934326
+In which category does the printed silk scarf belong?,accessories,"According to the product information, the printed silk scarf belongs to the **accessories** category.",0.42170972,2.4285166263580322
+What are the available colors for the printed silk scarf?,"Multi-Blue, Multi-Pink, Multi-Green, Multi-Purple","The available colors for the printed silk scarf are Multi-Blue, Multi-Pink, Multi-Green, and Multi-Purple.",0.6737037,2.6181135177612305
+What size is the printed silk scarf and what care instructions should be followed?,"The printed silk scarf is available in one size. For care instructions, please refer to the product details.","**Size:** One Size
+
+**Care Instructions:** This information is not specified in the provided product information.",0.66845936,2.4342215061187744
+What is the ID of the Satin Slip Dress?,CLT014,The ID of the Satin Slip Dress is **CLT014**.,0.57267797,2.4506516456604004
+How much does the Satin Slip Dress cost?,1299.99,The Satin Slip Dress costs **$1299.99**.,0.43160653,2.536769390106201
+In which category can I find the Satin Slip Dress?,dresses,The Satin Slip Dress is categorized as **dresses**.,0.5731572,2.490211009979248
+What colors are available for the Satin Slip Dress?,"Black, Navy, Champagne, Sage Green","The Satin Slip Dress is available in **Black, Navy, Champagne, and Sage Green**.",0.67101145,2.5347061157226562
+What sizes does the Satin Slip Dress come in?,"XS, S, M, L, XL","The Satin Slip Dress is available in sizes XS, S, M, L, and XL.",0.52874863,2.4326529502868652
+What is the ID of the Tailored Wool Trousers?,CLT015,The ID of the Tailored Wool Trousers is **CLT015**.,0.5461658,2.449589967727661
+How much do the Charcoal Tailored Wool Trousers cost?,1499.99,The Charcoal Tailored Wool Trousers cost $1499.99.,0.3694656,2.443389654159546
+In which category can I find the Black Tailored Wool Trousers?,pants,The provided text confirms that the Black Tailored Wool Trousers are categorized under **pants**.,0.54203475,2.673323154449463
+What sizes are available for the Navy Tailored Wool Trousers?,"34, 36, 38, 40, 42, 44",The available sizes for the Navy Tailored Wool Trousers are not explicitly stated in the provided product information.,0.08193512,2.5344245433807373
+Is there a discount on the Grey Tailored Wool Trousers?,"Yes, there is a 10% discount.","The provided text does not contain any information regarding discounts or promotions, so I am unable to answer this question from the given context.",0.6310407,2.4801101684570312
+What is the ID of the Quilted Crossbody Bag?,CLT016,The ID of the Quilted Crossbody Bag is **CLT016**.,0.6215392,2.470078229904175
+How much does the crossbody bag cost?,899.99,The Quilted Crossbody Bag costs $899.99.,0.28582627,2.4673001766204834
+In which category would I find the Quilted Crossbody Bag?,accessories,The Quilted Crossbody Bag can be found in the **Accessories** category.,0.40242916,2.471342086791992
+What colors are available for this bag?,"Black, Tan, Navy, Red","The Quilted Crossbody Bag is available in four colors: **Black, Tan, Navy, and Red.**",0.5793543,2.5045807361602783
+What is the size and discount information for the Quilted Crossbody Bag?,"There is only one size available, and there is no discount for this product.","The provided text does not include any information regarding the size or discount details for the Quilted Crossbody Bag, so I am unable to answer this question from the given context.",0.36966717,2.5160632133483887
+What is the ID of the Cotton Poplin Shirt Dress?,CLT017,The ID of the Cotton Poplin Shirt Dress is **CLT017**.,0.517329,2.445570945739746
+How much does the White Cotton Poplin Shirt Dress cost?,1199.99,The White Cotton Poplin Shirt Dress costs $1199.99.,0.31941545,2.4399852752685547
+In which category can I find the Pink Cotton Poplin Shirt Dress?,dresses,The Pink Cotton Poplin Shirt Dress can be found in the **dresses** category.,0.4825285,2.4918172359466553
+Is there a size XL for the Light Blue Cotton Poplin Shirt Dress?,Yes,"Yes, the Cotton Poplin Shirt Dress is available in size XL in the Light Blue color.",0.09560373,2.4412055015563965
+What is the discount on the Black Cotton Poplin Shirt Dress?,15%,"The provided text does not contain any information regarding any discounts or promotions on the Black Cotton Poplin Shirt Dress, so I am unable to answer this question from the given context.",0.18142498,2.5363733768463135
+What is the ID of the Leather Block Heel Sandals?,CLT018,The ID of the Leather Block Heel Sandals is **CLT018**.,0.5153866,2.519376277923584
+How much do the Leather Block Heel Sandals cost?,1299.99,The Leather Block Heel Sandals cost $1299.99.,0.35073835,2.5421671867370605
+In which category can I find the Leather Block Heel Sandals?,shoes,The Leather Block Heel Sandals can be found in the **shoes** category.,0.5531267,2.497314214706421
+What colors are available for the Leather Block Heel Sandals?,"Black, Tan, White, Metallic Gold","The Leather Block Heel Sandals are available in **Black, Tan, White, and Metallic Gold**.",0.4738864,2.4880568981170654
+What sizes are available for the Leather Block Heel Sandals?,"UK4, UK5, UK6, UK7, UK8","The Leather Block Heel Sandals are available in sizes UK4, UK5, UK6, UK7, and UK8.",0.45686853,2.58398175239563
+What is the ID of the Chunky Knit Sweater?,CLT019,The ID of the Chunky Knit Sweater is **CLT019**.,0.56667966,2.6733574867248535
+How much does the Chunky Knit Sweater cost?,1399.99,The Chunky Knit Sweater costs $1399.99.,0.26818836,2.455840826034546
+In which category can I find the Chunky Knit Sweater?,knitwear,The Chunky Knit Sweater can be found in the **knitwear** category.,0.7313375,2.432525157928467
+What color options are available for the Chunky Knit Sweater?,"Ivory, Charcoal, Camel, Forest Green","The Chunky Knit Sweater is available in four colors: Ivory, Charcoal, Camel, and Forest Green.",0.59162486,2.6076009273529053
+What sizes are offered for the Chunky Knit Sweater?,"S/M, M/L, L/XL","The Chunky Knit Sweater is available in three sizes: S/M, M/L, and L/XL.",0.5565917,2.524632215499878
+What is the ID of the High-Rise Yoga Leggings?,CLT020,The ID of the High-Rise Yoga Leggings is **CLT020**.,0.51747465,2.5582869052886963
+How much do the High-Rise Yoga Leggings cost?,799.99,The High-Rise Yoga Leggings cost $799.99.,0.3263912,2.684037923812866
+In which category can I find the High-Rise Yoga Leggings?,activewear,The High-Rise Yoga Leggings are categorized as **activewear**.,0.60338247,2.572477340698242
+What colors are available for the High-Rise Yoga Leggings?,"Black, Navy, Deep Purple, Forest Green","The High-Rise Yoga Leggings are available in **Black, Navy, Deep Purple, and Forest Green**.",0.55694604,2.4672133922576904
+What sizes are offered for the High-Rise Yoga Leggings?,"XS, S, M, L, XL","The High-Rise Yoga Leggings are available in sizes **XS, S, M, L, XL.**",0.5959306,2.4701168537139893
+What is the ID of the structured blazer dress?,CLT021,The product ID of the structured blazer dress is **CLT021**.,0.58767253,2.4858295917510986
+How much does the black structured blazer dress cost?,1899.99,The black structured blazer dress costs $1899.99.,0.44305465,2.663975238800049
+In which category can I find the navy blazer dress?,dresses,"The provided text does not include information regarding a navy blazer dress, so I am unable to answer this question from the given context.",0.4578176,2.524890184402466
+What sizes are available for the beige blazer dress?,"XS, S, M, L, XL","The available sizes for the beige blazer dress are XS, S, M, L, and XL.",0.48231983,2.626852512359619
+Is there a discount on the white structured blazer dress?,"Yes, there is a 15% discount.","The provided text does not include information regarding any discounts on the white structured blazer dress, so I am unable to answer this question from the given product information.",0.46418938,2.517563819885254
+What is the ID of the leather mini backpack?,CLT022,The ID of the leather mini backpack is **CLT022**.,0.58311844,2.4934728145599365
+How much does the mini backpack made of leather cost?,1299.99,"According to the product information provided, the Leather Mini Backpack costs **$1299.99**.",0.27841642,2.4327142238616943
+In which category can I find the leather mini backpack on your website?,accessories,The leather mini backpack can be found in the **accessories** category on the website.,0.35434872,2.5048301219940186
+What color options are available for the leather mini backpack?,"Black, Tan, Navy, Burgundy","The Leather Mini Backpack is available in four colors: **Black, Tan, Navy, and Burgundy.**",0.54408437,2.489703416824341
+What size is the leather mini backpack and does it come in other sizes?,It comes in one size: One Size,The Leather Mini Backpack is **one size only**. The product information does not mention any other available sizes.,0.57446444,2.456346035003662
+What is the ID of the Printed Maxi Kimono?,CLT023,The ID of the Printed Maxi Kimono is **CLT023**.,0.5508942,2.475304365158081
+How much does the Printed Maxi Kimono cost?,999.99,The Printed Maxi Kimono costs $999.99.,0.4264164,2.488631248474121
+In which category does the Printed Maxi Kimono belong?,outerwear,"Based on the provided product information, the Printed Maxi Kimono belongs in the **Outdoors** category.",0.36489138,2.4543185234069824
+What are the available colors for the Printed Maxi Kimono?,"Blue Multi, Pink Multi, Green Multi, Black Multi","The available colors for the Printed Maxi Kimono are Blue Multi, Pink Multi, Green Multi, and Black Multi.",0.67382604,2.6521430015563965
+What sizes is the Printed Maxi Kimono available in?,One Size,The Printed Maxi Kimono is available in **One Size** only.,0.49597982,2.548429012298584
